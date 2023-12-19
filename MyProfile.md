@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning Back-End Development<br>👯 I’m looking to collaborate on a work team<br>🤝 I’m looking for help with Back-End solutions<br>💬 Ask me about technology<br>⚡ Fun fact: I was a dancer for 10 years.
+🔭 I’m currently learning Back-End Development<br>👯 I’m looking to collaborate on a work team<br>🤝 I’m looking for help with Back-End solutions<br>💬 Ask me about technology<br>⚡ Fun fact: I was a dancer for 10 years.<br> 💻​ IEEE Computer Society Member.
 
 
 ## 🌐 Socials:
